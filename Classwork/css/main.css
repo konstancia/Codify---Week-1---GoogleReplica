@@ -1,0 +1,36 @@
+h1
+{
+color: purple;
+}
+
+.nav {
+
+	background-color: yellow;
+    padding: 50px;
+    margin: 50px;
+}
+
+.box {
+
+	position:left;
+	width: 50%;
+	margin: auto;
+	background-color: pink;
+}
+
+.image {
+
+	position:right;
+	width: 50%;
+	padding: 25px;
+	margin: none;
+	size: 20%;
+}
+
+.kon {
+
+	text-align: center;
+	border: 5px solid red;
+	color: blue;
+	padding: none;
+}
